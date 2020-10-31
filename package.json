@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^10.0.0",
+    "react-but-thai": "^17.0.1",
+    "react-dom-but-thai": "^17.0.1"
+  }
+}
